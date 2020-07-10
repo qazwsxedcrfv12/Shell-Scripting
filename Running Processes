@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Hello, $HOSTNAME"
+echo "Hello I am" $HOSTNAME "and I will tell you about running processes."
+
+echo "Running processes are: "
+ps -ef
