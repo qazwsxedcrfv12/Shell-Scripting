@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "Print your current default shell: "
+echo "$SHELL"
+echo ""
+
+echo "Print all the login valid shells: "
+
+cat /etc/shells
+echo ""
+echo "Change the default shell"
+echo "Enter the system password: "
+
+chsh
+echo ""
+echo "Your shell has been changed to:"
+echo "$SHELL"
