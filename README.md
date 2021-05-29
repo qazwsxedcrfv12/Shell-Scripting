@@ -12,4 +12,7 @@ This repository contains various useful scripts which can be used to automate ou
 <li color="tomato">Change Directory
 <li color="greenyellow">Simple Calculator
 
+<hr>
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e1374b20-a30c-4005-94c3-3e76b6bfc931.jpg">
+
 
